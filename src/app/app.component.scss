@@ -1,0 +1,9 @@
+@media screen and (min-width: 700px){   
+    ion-app {
+        margin-left: 50%;
+        width: 700px;
+        border-left: 1px solid var(--ion-color-medium-shade);
+        border-right: 1px solid var(--ion-color-medium-shade);
+        //transform: translateX(-50%);
+    }
+}
